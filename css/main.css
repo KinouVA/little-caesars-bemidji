@@ -68,12 +68,9 @@ section {
   text-align: center;
 }
 
-#disqus_thread {
-  margin: 0 auto;
-}
-
 #disqus_thread .container {
   width: 95%;
+  margin: 0 auto;
 }
 
 footer {
