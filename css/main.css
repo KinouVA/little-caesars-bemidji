@@ -69,7 +69,7 @@ section {
   text-align: center;
 }
 
-#disqus_thread .container {
+.disqus-container {
   width: 95%;
   margin: 0 auto;
 }
