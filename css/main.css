@@ -69,8 +69,11 @@ section {
 }
 
 #disqus_thread {
-  width: 95%;
   margin: 0 auto;
+}
+
+#disqus_thread .container {
+  width: 95%;
 }
 
 footer {
