@@ -1,0 +1,21 @@
+@media only screen and (max-width: 1000px){
+  main {
+    width: 100%;
+  }
+  main .container {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+  nav .container {
+    margin: 0 auto;
+  }
+  nav img {
+    padding: 0;
+  }
+  nav .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+}
